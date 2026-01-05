@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiStock</string>
+    <string name="txt_leer">Leer</string>
+    <string name="txt_codigo">Código</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_stock">Stock</string>
+    <string name="txt_precio">Precio</string>
+
+    <string name="item_config">Configuración</string>
+    <string name="txt_url">Url</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>
